@@ -24,7 +24,3 @@ Versatility: Whether you're building a traffic management system, security appli
 🔧 Installation Instructions:
 
 Refer Installation.md
-
-📧 Contact:
-
-For any inquiries or support requests, feel free to reach out via email at neelkhot@outlook.com or WhatsApp at +91 7715072136
